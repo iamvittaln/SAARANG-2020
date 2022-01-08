@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white
+}
+#tick{
+    color:lawngreen;
+}
+h2{
+    color:white;
+}
+.atbphoto{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a:link{
+    color:mediumblue;
+}
+a:visited{
+    color:mediumblue;
+}
+a:hover{
+    color:orangered;
+}
+a:active{
+    color:lawngreen;
+}
+.footer{
+    color: skyblue;
+    position:relative;
+    bottom:0;
+    width:100%;
+    display:block;
+}
